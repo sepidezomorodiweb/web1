@@ -5,5 +5,11 @@
 
 <a href="https://sepidezomorodiweb.github.io/web1/">online demo</a>
 
-developed by html and css
+Developed by sepide zomorodi
+
+Created -2025-03-09
+
+Technologies Used - Html , css
+
+Role - frontend
 
